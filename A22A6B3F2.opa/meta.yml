@@ -1,0 +1,19 @@
+id: A22A6B3F2
+title: An Aspiration
+type: translation
+pechas:
+- I4F7D1034
+- I6DBD367C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:08.333827
+  last_modified_at: 2023-01-04 11:46:08.333834
+  collections:
+  - Dudjom Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4F7D1034/296B: 77BC
+  I6DBD367C/37EB: 77BC
